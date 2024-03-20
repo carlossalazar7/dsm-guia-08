@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "312405910198",
+    "firebase_url": "https://fi-dbrealtime-b4f26-default-rtdb.firebaseio.com",
+    "project_id": "fi-dbrealtime-b4f26",
+    "storage_bucket": "fi-dbrealtime-b4f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312405910198:android:0c9f9990eb685c5b34fc17",
+        "android_client_info": {
+          "package_name": "sv.edu.udb.guia08app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrN0IRoyhzEA5CoCate-0-6XQzbj5pY1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
